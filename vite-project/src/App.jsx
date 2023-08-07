@@ -1,9 +1,10 @@
 
-import Jumbotron from "./site/components/Jumbotron";
-import InfoSection from "./site/components/InfoSection";
-import Nav from "./site/components/Nav";
-import Overview from "./site/components/Overview";
+import Jumbotron from "/src/site/components/Jumbotron.jsx";
+import InfoSection from "./src/site/components/InfoSection";
+import Nav from "./src/site/components/Nav";
+import Overview from "./src/site/components/Overview";
 import { Component } from "react";
+
 
 
 function App() {
